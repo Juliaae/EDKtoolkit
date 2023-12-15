@@ -19,4 +19,4 @@ Reference
 
 
 
-Note that due to storage limitations, for more requests please contact: zhutongtong@big.ac.cn
+Note that due to storage limitations, for more requests please contact.
